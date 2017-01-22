@@ -1,7 +1,11 @@
 # Bengali_Bible
 Bengali Bible (CC by SA)
 
+<<<<<<< HEAD
 Gospels (4 books) available now.
+=======
+New Testament (27 books) available.
+>>>>>>> bfcaf4df2fbd95a7c8e374a0fb8aad143c2ac103
 
 Read Bible, Download Android/Desktop Apps
 
@@ -19,5 +23,9 @@ You are free:
 
 Under the following conditions:
 
+<<<<<<< HEAD
 * Attribution — You must attribute the work as follows: "Original work available at http://www.freebiblesindia.com." Attribution statements in derivative works should not in any way suggest that we endorse you or your use of this work.
+=======
+* Attribution — You must attribute the work as follows: "Original work available at http://www.freebiblesindia.com" Attribution statements in derivative works should not in any way suggest that we endorse you or your use of this work.
+>>>>>>> bfcaf4df2fbd95a7c8e374a0fb8aad143c2ac103
 * ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
