@@ -1,11 +1,7 @@
 # Bengali_Bible
 Bengali Bible (CC by SA)
 
-<<<<<<< HEAD
-Gospels (4 books) available now.
-=======
 New Testament (27 books) available.
->>>>>>> bfcaf4df2fbd95a7c8e374a0fb8aad143c2ac103
 
 Read Bible, Download Android/Desktop Apps
 
