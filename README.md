@@ -1,4 +1,7 @@
 # Bengali_Bible
+
+![icon](https://github.com/FreeBiblesIndia/Bengali_Bible/blob/master/icons/icon.png?raw=true)
+
 Bengali Bible (CC by SA)
 
 New Testament (27 books) available.
